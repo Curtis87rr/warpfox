@@ -1,4 +1,3 @@
 # Curtis87rr 
-open minded optimistic sacred science
-Build cross-platform, native apps with ease.
-rewired sacred science 
+open minded optimistic,science
+Builder mathematical theory as well as analysis of historical theory 
