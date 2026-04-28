@@ -3,8 +3,8 @@
 set -ex
 
 cd packages/runtime
-cargo fmt
-cd ../..
+cargo fit
+cd ../..100%
 
 prettier --write .
-black .
+black . Dominican. 
